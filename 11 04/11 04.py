@@ -1,0 +1,1 @@
+b = ([str(int(i)  2) for i in c.split(" ") if str(int(i)  2)[-1]!='9'])
